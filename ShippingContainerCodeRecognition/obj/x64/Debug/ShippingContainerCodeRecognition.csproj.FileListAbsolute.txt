@@ -1,0 +1,66 @@
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\ShippingContainerCodeRecognition.exe.config
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\x64\concrt140.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\x64\cvextern.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\x64\msvcp140.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\x64\vcruntime140.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\ShippingContainerCodeRecognition.exe
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\ShippingContainerCodeRecognition.pdb
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\Emgu.CV.UI.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\Emgu.CV.World.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\ZedGraph.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\Emgu.CV.World.xml
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\ZedGraph.xml
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\de\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\es\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\fr\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\hu\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\it\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\ja\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\pt\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\ru\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\sk\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\sv\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\tr\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.Main.resources
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.Properties.Resources.resources
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.csproj.GenerateResource.Cache
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.exe
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.pdb
+D:\Projects\Outsource\Phuc Nguyen\Source Code\ShippingContainerCodeRecognition\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.csprojResolveAssemblyReference.cache
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\ShippingContainerCodeRecognition.exe.config
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.exe
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.pdb
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\x64\concrt140.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\x64\cvextern.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\x64\msvcp140.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\x64\vcruntime140.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\ShippingContainerCodeRecognition.exe
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\ShippingContainerCodeRecognition.pdb
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\Emgu.CV.UI.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\Emgu.CV.World.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\ZedGraph.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\Emgu.CV.World.xml
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\ZedGraph.xml
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\de\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\es\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\fr\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\hu\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\it\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\ja\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\pt\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\ru\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\sk\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\sv\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\tr\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.csprojResolveAssemblyReference.cache
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.Main.resources
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.Properties.Resources.resources
+D:\Outsource\Phuc Nguyen\Phuc-Nguyen\ShippingContainerCodeRecognition\obj\x64\Debug\ShippingContainerCodeRecognition.csproj.GenerateResource.Cache
